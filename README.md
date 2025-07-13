@@ -1,0 +1,2 @@
+# Food-Ordering-System
+Developed a comprehensive full-stack food ordering system utilizing Spring Boot, Hibernate, MySQL, and React.js to manage diverse user interactions and order flows. Engineered and implemented MySQL integration, enhancing system efficiency. Designed and deployed a responsive React frontend to provide a seamless and user-friendly experience across various devices and user roles
